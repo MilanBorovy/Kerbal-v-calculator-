@@ -1,0 +1,42 @@
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\bin\Debug\Kerbal Δv calculator.exe.config
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\bin\Debug\Kerbal Δv calculator.exe
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\bin\Debug\Kerbal Δv calculator.pdb
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.Result.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.Engines.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.Properties.Resources.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.csproj.GenerateResource.Cache
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\Kerbal Δv calculator.exe
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\Kerbal Δv calculator.pdb
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.csprojResolveAssemblyReference.cache
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\bin\Debug\cs-CZ\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.Engines.cs-CZ.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\cs-CZ\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\bin\Debug\de-DE\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.Engines.de-DE.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\de-DE\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\bin\Debug\aa\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\bin\Debug\es-ES\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\bin\Debug\fr-FR\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\bin\Debug\pl-PL\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\bin\Debug\ru-RU\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.Engines.aa.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.Engines.es-ES.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.Engines.fr-FR.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.Engines.pl-PL.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.Engines.ru-RU.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\aa\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\es-ES\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\fr-FR\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\pl-PL\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\ru-RU\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\bin\Debug\en-GB\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.Engines.en-GB.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\en-GB\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.Result.aa.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.Result.cs-CZ.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.Result.de-DE.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.Result.en-GB.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.Result.es-ES.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.Result.fr-FR.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.Result.pl-PL.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Debug\KSPdeltaVCalc.Result.ru-RU.resources

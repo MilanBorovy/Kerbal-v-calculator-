@@ -1,0 +1,47 @@
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\bin\Release\KSPdeltaVCalc.exe.config
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\bin\Release\KSPdeltaVCalc.exe
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\bin\Release\KSPdeltaVCalc.pdb
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.Properties.Resources.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.csproj.GenerateResource.Cache
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\bin\Release\Kerbal.exe.config
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\bin\Release\Kerbal Δv calculator.exe.config
+C:\Users\mIA\Desktop\KSP Kalkulátor\Kerbal Δv calculator.exe.config
+C:\Users\mIA\Desktop\KSP Kalkulátor\Kerbal Δv calculator.exe
+C:\Users\mIA\Desktop\KSP Kalkulátor\Kerbal Δv calculator.pdb
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.csprojResolveAssemblyReference.cache
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\Kerbal Δv calculator.exe
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\Kerbal Δv calculator.pdb
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.Result.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.Engines.resources
+C:\Users\mIA\Desktop\KSP Kalkulátor\aa\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\KSP Kalkulátor\cs-CZ\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\KSP Kalkulátor\de-DE\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\KSP Kalkulátor\en-GB\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\KSP Kalkulátor\es-ES\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\KSP Kalkulátor\fr-FR\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\KSP Kalkulátor\pl-PL\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\KSP Kalkulátor\ru-RU\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.Engines.aa.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.Engines.cs-CZ.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.Engines.de-DE.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.Engines.en-GB.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.Engines.es-ES.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.Engines.fr-FR.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.Engines.pl-PL.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.Engines.ru-RU.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.Result.aa.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.Result.cs-CZ.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.Result.de-DE.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.Result.en-GB.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.Result.es-ES.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.Result.fr-FR.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.Result.pl-PL.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\KSPdeltaVCalc.Result.ru-RU.resources
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\aa\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\cs-CZ\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\de-DE\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\en-GB\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\es-ES\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\fr-FR\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\pl-PL\Kerbal Δv calculator.resources.dll
+C:\Users\mIA\Desktop\C#\KSPdeltaVCalc\KSPdeltaVCalc\obj\Release\ru-RU\Kerbal Δv calculator.resources.dll
